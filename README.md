@@ -5,3 +5,4 @@ We'll learn and explore how to effectively use Coyote through a series of tutori
 * [Introductin - complete implementation and more tests](./introduction-continued.md)
 * [Writing your first simulator](./developing-db-simulator.md)
 * [Extending the DB simualtor to support ETags](./extending-db-simulator.md)
+* [Writing a message bus simulator](./developing-message-bus-simulator.md)
