@@ -11,4 +11,3 @@ We'll learn and explore how to effectively use Coyote through a series of tutori
 * [Why does Coyote work well with real world programs?](./coyote-and-real-world-programs.md)
 * [Grokking state space explosion and discuss how to tame it](./state-space-explosion.md)
 * [Testing distributed systems with Coyote](./testing-distributed-systems.md)
-* [Does abstraction help deal with concurrency? (this isn't a well developed article, feel free to ignore)](./abstraction-and-concurrency.md)
